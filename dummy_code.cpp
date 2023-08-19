@@ -8,7 +8,7 @@ int main()
     cin>>n;
     while(n--)
     {
-        cout<<n<<" ";
+        cout<<n<<endl;
     }
     cout<<endl;
     return 0;
