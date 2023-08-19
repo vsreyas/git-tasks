@@ -29,6 +29,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 ### Entries
 
   * Gayathri Anant [Gayathri2004Anant](https://github.com/Gayathri2004Anant)
+  * K. Tharun Selvam [tharun-selvam](https://github.com/tharun-selvam)
 
 ## Task 2
 
