@@ -30,7 +30,6 @@ Your entry should maintain alphabetic order and it should be in the format:
 Gayathri Anant [Gayathri2004Anant](https://github.com/Gayathri2004Anant)\
 Khushboo Nayak [khushboo-nayak](http://github.com/khushboo-nayak)\
 K. Tharun Selvam [tharun-selvam](https://github.com/tharun-selvam)\
-Ayush Kumar [meush](https://github.com/dsawebappayush)
 
 ## Task 2
 
