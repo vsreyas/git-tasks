@@ -30,8 +30,9 @@ Your entry should maintain alphabetic order and it should be in the format:
 Gayathri Anant [Gayathri2004Anant](https://github.com/Gayathri2004Anant)\
 Khushboo Nayak [khushboo-nayak](http://github.com/khushboo-nayak)\
 K. Tharun Selvam [tharun-selvam](https://github.com/tharun-selvam)\
-Pranaya Chowdary [pransverse](https://github.com/pransverse)\
-Sachish Singla [sachishs-15](https://github.com/sachishs-15)
+Sachish Singla [sachishs-15](https://github.com/sachishs-15)\
+Devodita Chakravarty [devodita](https://github.com/devodita)\
+Pranaya Chowdary [pransverse](https://github.com/pransverse)
 
 
 ## Task 2
