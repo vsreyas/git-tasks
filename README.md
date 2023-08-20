@@ -33,7 +33,8 @@ K. Tharun Selvam [tharun-selvam](https://github.com/tharun-selvam)\
 Sachish Singla [sachishs-15](https://github.com/sachishs-15)\
 Devodita Chakravarty [devodita](https://github.com/devodita)\
 Pranaya Chowdary [pransverse](https://github.com/pransverse)\
-Swaminathan S K [SwaminathanSK](https://github.com/SwaminathanSK)
+Swaminathan S K [SwaminathanSK](https://github.com/SwaminathanSK)\
+Shashwat Singh Ranka [Cath3dr4l](https://github.com/Cath3dr4l)\
 
 
 ## Task 2
