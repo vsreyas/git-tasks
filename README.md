@@ -36,8 +36,8 @@ Pranaya Chowdary [pransverse](https://github.com/pransverse)\
 Swaminathan S K [SwaminathanSK](https://github.com/SwaminathanSK)\
 Ayush Kumar [meush](https://github.com/dsawebappayush)\
 Anjali S Vallakudath [Anjali-sv](https://github.com/Anjali-sv)\
-Ahwaban Mukherjee [ahwaban](http://github.com/ahwaban)
-
+Ahwaban Mukherjee [ahwaban](http://github.com/ahwaban)\
+Satyabrata Nayak [Satyabrata-Nayak](http://github.com/Satyabrata-Nayak)
 
 ## Task 2
 
