@@ -2,3 +2,8 @@ this is a dummy file
 hello world
 
 undo the changes
+
+
+line for sencond commit
+line for third commit
+ 1610c27 (third commit)
